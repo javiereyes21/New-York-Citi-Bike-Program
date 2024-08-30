@@ -4,7 +4,7 @@ Author
 
 Javier Reyes Hernandez
 
-This README provides a clear structure and guidelines for completing the project, ensuring all necessary steps and deliverables are included.
+This README provides a clear structure and guidelines for completing the project, ensuring all necessary steps and deliverables are included. The project was completed with the help of instructor videos and AI assistance, ensuring accurate and efficient execution of the tasks.
 
 QUERIES AS FOLLOWS:
 
